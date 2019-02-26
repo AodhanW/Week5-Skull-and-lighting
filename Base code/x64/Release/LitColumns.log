@@ -1,0 +1,8 @@
+﻿  LitColumnsApp.cpp
+c:\users\cgf17waa\downloads\lab 3 - base code\base code\litcolumnsapp.cpp(761): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  3 of 2323 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LitColumns.vcxproj -> C:\Users\Cgf17waa\Downloads\lab 3 - Base code\Base code\x64\Release\Lab 5 Lighting.exe
